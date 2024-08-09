@@ -1,6 +1,6 @@
 <h2>@bartolomeoadrian
 </h2>
-<p><em>Senior Software Engineer at <a href="http://hcdn.gob.ar">HCDN</a></em>&nbsp;&nbsp;<img src="https://media.giphy.com/media/dX2gJzWxi4imwju4gm/giphy.gif" width="20"></p>
+<p><em>Senior Software Engineer at <a href="http://hcdn.gob.ar" target="_blank">HCDN</a></em>&nbsp;&nbsp;<img src="https://media.giphy.com/media/dX2gJzWxi4imwju4gm/giphy.gif" width="20"></p>
 
 <img align='right' src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif?cid=790b7611y1bzgstbivmd5bzc1r2uw7ypzv3tzcei65skolkg&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="250">
 
