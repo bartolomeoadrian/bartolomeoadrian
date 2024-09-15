@@ -9,7 +9,7 @@
 [![GitHub bartolomeoadrian](https://img.shields.io/github/followers/bartolomeoadrian?label=follow&style=social)](https://github.com/bartolomeoadrian)
 
 
-### <img src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif?cid=790b7611e0tftx6463qyud4ae6hu2gi92n9m80rg2faaw0qe&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30"> A little more about me...  
+### A little more about me...  
 
 ```javascript
 const bart = {
