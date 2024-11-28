@@ -13,7 +13,10 @@
 
 ```javascript
 const bart = {
-  code: ["Javascript", "Typescript", "C", "Python", "Java", "PHP", "HTML", "CSS", "Sass"],
+    code: ["Rust", "JavaScript", "TypeScript", "C", "Python", "Java", "PHP", "Bash"],
+    web: ["React JS", "NestJS", "Laravel", "Slim", "HTML", "CSS", "SASS", "Twig"],
+    db: ["MongoDB", "MySQL", "PostgreSQL", "Oracle DB", "SQL Server"],
+    tools: ["Docker" , "Podman", "Kubernetes (K8s)", "Git", "NGINX", "Apache"],
 }
 ```
 
